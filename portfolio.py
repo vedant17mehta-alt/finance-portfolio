@@ -70,4 +70,4 @@ with tab3:
 # Footer
 st.markdown("---")
 st.center = st.write("Built with ❤️ using Python & Streamlit")
-streamlit run portfolio.py
+
